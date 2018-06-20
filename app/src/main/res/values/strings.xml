@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">guessNumber</string>
+    <string name="question_TextView">TextView</string>
+    <string name="Guess_no_Text">What number am i thinking between 1 and 20?</string>
+    <string name="write_a_number_Text">Write a number</string>
+    <string name="guess_any_number_Text_View">Guess any number</string>
+    <string name="click">Button</string>
+    <string name="button_click">CLICK</string>
+</resources>
